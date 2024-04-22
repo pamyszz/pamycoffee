@@ -38,6 +38,7 @@
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-#### 💖 Feito com amor e café por Pamela Miranda
+#### 💖 Feito com amor e café por Pamela Miranda 
 #### ☕️ Aprecie com moderação!
+#### 📖 Aula da [Rafaella Ballerini](https://github.com/rafaballerini)
 ---
